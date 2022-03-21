@@ -11,3 +11,5 @@
 1. git remote add origin git@github.com:georgejin70/giblearn1.git
 2. git branch -M main
 3. git push -u origin main
+
+### 2022-03-21 update 01 
